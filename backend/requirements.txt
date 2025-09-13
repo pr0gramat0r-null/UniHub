@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy>=1.4
+databases[postgresql]
+asyncpg
+alembic
+pydantic
+python-jose
+passlib[bcrypt]
+python-dotenv
+httpx
+requests
+beautifulsoup4
+pytest
+pytest-asyncio
